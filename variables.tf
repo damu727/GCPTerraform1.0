@@ -15,7 +15,7 @@ variable "zone" {
 
 variable "vm_name" {
   type        = string
-  default     = "damu727vm"
+  default     = "vm2"
 }
 
 variable "machine_type" {
